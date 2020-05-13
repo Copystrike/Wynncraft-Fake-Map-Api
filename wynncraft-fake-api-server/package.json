@@ -1,0 +1,21 @@
+{
+  "name": "wynncraft-fake-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app",
+    "devStart": "nodemon app"
+  },
+  "keywords": [],
+  "author": "Ikeetjeop",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "hosts-so-easy": "^1.2.8"
+  }
+}
